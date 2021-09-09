@@ -15,3 +15,4 @@ Talks:
 - [A pattern matcher in JavaScript](https://polytypic.github.io/blog/a-pattern-matcher-in-javascript/)
   - [Screen capture from presentation](https://youtu.be/Wl5w60ERkrc)
   - [Slides from HelsinkiJS edition](https://polytypic.github.io/blog/a-pattern-matcher-in-javascript_hkijs)
+- [Transactional Locking](https://polytypic.github.io/blog/transactional-locking/)
