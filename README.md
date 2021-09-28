@@ -16,3 +16,4 @@ Talks:
   - [Screen capture from presentation](https://youtu.be/Wl5w60ERkrc)
   - [Slides from HelsinkiJS edition](https://polytypic.github.io/blog/a-pattern-matcher-in-javascript_hkijs)
 - [Transactional Locking](https://polytypic.github.io/blog/transactional-locking/)
+- [Inverting Event Streams is a Choice](https://docs.google.com/presentation/d/1Yowsc3MV9xWqHJ3u11B0xYqqqeK368BW_dfZ9_H0WJI)
