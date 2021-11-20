@@ -17,3 +17,7 @@ Talks:
   - [Slides from HelsinkiJS edition](https://polytypic.github.io/blog/a-pattern-matcher-in-javascript_hkijs)
 - [Transactional Locking](https://polytypic.github.io/blog/transactional-locking/)
 - [Inverting Event Streams is a Choice](https://docs.google.com/presentation/d/1Yowsc3MV9xWqHJ3u11B0xYqqqeK368BW_dfZ9_H0WJI)
+
+Gists:
+
+- [Zio like monad in F# with extensible error handling](https://gist.github.com/polytypic/d4c646527ca1241f630e2c10dfc0af8d)
