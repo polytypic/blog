@@ -20,6 +20,7 @@ Talks:
 
 Gists:
 
+- [Extending k-CAS with efficient read-only CMP operations](https://gist.github.com/polytypic/0efa0e2981d2a5fc4b534a0e25120cc9)
 - [Simplified MSI model of shared memory](https://gist.github.com/polytypic/781a69a0a8e2d1f3ddcc4170887fc412)
 - [Zio like monad in F# with extensible error handling](https://gist.github.com/polytypic/d4c646527ca1241f630e2c10dfc0af8d)
 - [Learning day: ReDiSL](https://gist.github.com/polytypic/08929bfe060f9cafe0d45f2b4ebf9f38)
