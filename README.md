@@ -10,6 +10,7 @@ Posts:
 
 Talks:
 
+- [k-CAS for sweat-free concurrent programming](https://gist.github.com/polytypic/3214389ad69b16d28b957ced86e1b1a4#k-cas-for-sweat-free-concurrent-programming)
 - [HTTP requests beyond promises](https://drive.google.com/file/d/1v47Q9ey1S_HeULZKC164M5AHhu9JCMsZ/view?usp=sharing)
 - [The future is algebraic](https://polytypic.github.io/blog/the-future-is-algebraic/)
 - [A pattern matcher in JavaScript](https://polytypic.github.io/blog/a-pattern-matcher-in-javascript/)
