@@ -10,6 +10,9 @@ Posts:
 
 Talks:
 
+- [Building a lock-free STM for OCaml](https://icfp23.sigplan.org/details/ocaml-2023-papers/6/Building-a-lock-free-STM-for-OCaml)
+  - [Video](https://www.youtube.com/watch?v=Mt8wPCHU1ZU)
+  - [Slides](https://polytypic.github.io/kcas-talk/)
 - [k-CAS for sweat-free concurrent programming](https://gist.github.com/polytypic/3214389ad69b16d28b957ced86e1b1a4#k-cas-for-sweat-free-concurrent-programming)
   - [Video from presentation on 2023-02-15](https://www.youtube.com/watch?v=1z8PshvWOF8)
 - [HTTP requests beyond promises](https://drive.google.com/file/d/1v47Q9ey1S_HeULZKC164M5AHhu9JCMsZ/view?usp=sharing)
