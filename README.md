@@ -10,6 +10,7 @@ Posts:
 
 Talks:
 
+- [A lock-free hash table for OCaml](https://polytypic.github.io/blog/a-lock-free-hash-table-for-ocaml/)
 - [Building a lock-free STM for OCaml](https://icfp23.sigplan.org/details/ocaml-2023-papers/6/Building-a-lock-free-STM-for-OCaml)
   - [Video](https://www.youtube.com/watch?v=Mt8wPCHU1ZU)
   - [Slides](https://polytypic.github.io/kcas-talk/)
